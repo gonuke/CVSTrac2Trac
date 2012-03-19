@@ -1,5 +1,6 @@
+_______________________________________________________________________
 CVSTrac2Trac
-===========
+_______________________________________________________________________
 
 CVSTrac is undergoing ever less frequent updates and becoming a stale
 project.  Moreover, a software project management platform that is
